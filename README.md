@@ -44,7 +44,7 @@ This is an exploration of 2016 US presidential campaign donations in the state o
 - Python 3.6.3
 - Jupyter Notebook
 - Anaconda-Navigator
-
+- RStudio
 
 <a id='Design'></a>
 
