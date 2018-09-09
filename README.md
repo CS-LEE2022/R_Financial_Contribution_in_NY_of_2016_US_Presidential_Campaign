@@ -130,4 +130,4 @@ After those substantial analysis, it is clear that democrats triumph in New York
 ## License 
 
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/Shilin0806/Explore_and_Summarize_Data/blob/master/LICENSE)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/Shilin0806/Financial_Contribution_Analysis_in_New_York_State_of_2016_United_States_Presidential_Campaign/blob/master/LICENSE)
