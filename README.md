@@ -49,7 +49,7 @@ This is an exploration of 2016 US presidential campaign donations in the state o
 ### Design
 
 
-![](https://img.shields.io/badge/language-Python-orange.svg)
+![](https://img.shields.io/badge/language-R-orange.svg)
 
 
 **_Step One_** - Choose Data Set
