@@ -14,7 +14,7 @@ The United States presidential election of 2016 was the 58th quadrennial America
 ![alt text](https://images.pexels.com/photos/1046399/pexels-photo-1046399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 
-Image is from a copyright-free website: https://www.pexels.com/royalty-free-images/.
+(Image is from a copyright-free website: https://www.pexels.com/royalty-free-images/.)
 
 
 According to the financial data set, key information such as demographic and geographic support for each party and candidate can be acquired, in addition, contributors’s gender, occupation, etc., can be added to draw more comprehensive analysis. The patterns of the donation flow over time also reflect the current status of the candidates in the race. For this project, my analysis will be centered on the support for major two parties, namely, the democrats and republicans, in terms of parameters like demographic, geographic, gender, occupation, time, etc.
